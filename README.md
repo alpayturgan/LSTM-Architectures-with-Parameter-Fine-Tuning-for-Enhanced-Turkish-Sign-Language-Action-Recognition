@@ -1,5 +1,6 @@
 # LSTM Architectures with Parameter Fine-Tuning for Enhanced Turkish Sign Language Action Recognition
 
+https://github.com/user-attachments/assets/6d428be7-ceef-40d8-902f-f4712f4e9893
 ## Overview
 This repository contains the implementation of a deep learning model for Turkish Sign Language (TSL) action recognition. The model leverages Long Short-Term Memory (LSTM) networks combined with convolutional layers (Conv1D) and parameter tuning techniques to achieve high accuracy in recognizing 15 different Turkish Sign Language gestures.
 
