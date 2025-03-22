@@ -1,6 +1,8 @@
 # LSTM Architectures with Parameter Fine-Tuning for Enhanced Turkish Sign Language Action Recognition
 
 You can see the working version of the code by clicking.
+
+
 [![YouTube Video](https://img.youtube.com/vi/xJdOjk-BtyA/0.jpg)](https://youtu.be/xJdOjk-BtyA)
 
 ## Overview
