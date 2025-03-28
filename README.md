@@ -87,5 +87,5 @@ This research was conducted as part of a Master of Science thesis at Eastern Med
 This project is licensed under the MIT License.
 
 ## Contact
-For further inquiries, please contact [your email here].
+For further inquiries, please contact alpay_turgan@hotmail.com.
 
